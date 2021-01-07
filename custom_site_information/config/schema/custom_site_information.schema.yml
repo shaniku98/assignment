@@ -1,0 +1,8 @@
+# Here extending the system.site configuration of core
+system.site:
+  type: config_object
+  mapping:
+    # Added Custom field name is 'siteapikey'
+    siteapikey:
+      type: label
+      label: 'Site API Key'

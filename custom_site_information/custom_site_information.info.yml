@@ -1,0 +1,6 @@
+name: Custom Site Information
+description: Custom Site Information for Alter Site Information form.
+package: Custom
+type: module
+version: '8.x-1.x'
+core_version_requirement: ^8 || ^9
